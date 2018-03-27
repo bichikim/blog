@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8deab951-5517-4f55-ac8c-82119ccf7305" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/My-frist-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/My-frist-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/cactus/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cactus/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/minos" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/minos/source/css/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/minos/source/css/style.styl" afterDir="false" />
     </list>
     <list id="6b71abd7-ed5c-4daf-9f4c-0d55cc81a6af" name="fix" comment="fix&#10;&#10;(cherry picked from commit b7a886b)">
       <changelist_data name="Bichi Kim" email="bichi@live.co.kr" date="1522083756000">
@@ -29,10 +29,33 @@
       <file leaf-file-name="_variables.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_variables.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="176">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/cactus/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_extend.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_extend.styl">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="My-frist-post.md" pinned="false" current-in-tab="false">
@@ -53,31 +76,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_partial/comment.styl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="custom-layout.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_partial/custom-layout.styl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="fancybox.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_partial/fancybox.styl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="footer.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_partial/footer.styl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="header.styl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_partial/header.styl">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="highlight.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_partial/highlight.styl">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,11 +83,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.styl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/minos/source/css/style.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="352">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/minos/source/webfonts/source-code-pro/main.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/minos/source/webfonts/ptserif/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="614">
+              <caret line="98" column="29" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -113,11 +125,13 @@
       <list>
         <option value="$PROJECT_DIR$/themes/lite/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/minos/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/minos/source/css/_variables.styl" />
         <option value="$PROJECT_DIR$/source/_posts/My-frist-post.md" />
         <option value="$PROJECT_DIR$/themes/minos/source/css/style.styl" />
+        <option value="$PROJECT_DIR$/themes/minos/source/webfonts/ptserif/main.css" />
+        <option value="$PROJECT_DIR$/themes/minos/source/css/_variables.styl" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/cactus/_config.yml" />
       </list>
     </option>
   </component>
@@ -158,39 +172,7 @@
               <item name="bichikim.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="bichikim.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bichikim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bichikim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minos" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bichikim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bichikim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minos" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bichikim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bichikim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minos" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="_partial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bichikim.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bichikim.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="minos" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="fancybox" type="462c0819:PsiDirectoryNode" />
+              <item name="cactus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +226,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522083183594</updated>
       <workItem from="1522083185201" duration="4336000" />
-      <workItem from="1522167625556" duration="10326000" />
+      <workItem from="1522167625556" duration="13372000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1522083228503</created>
@@ -309,11 +291,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522174832551</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge branch 'master' of https://github.com/bichikim/bichikim.github.io&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;_config.yml&#10;#&#9;_posts/2016-05-20-welcome-to-jekyll.md&#10;#&#9;about.md&#10;#&#9;index.md&#10;#&#9;package.json">
+      <created>1522178282061</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522178282061</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14662000" />
+    <option name="totallyTimeSpent" value="17708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="0" width="1703" height="1447" extended-state="0" />
@@ -423,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/about/index.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -442,11 +424,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/minos/layout/index.ejs">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_extend.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_partial/archive.styl">
       <provider selected="true" editor-type-id="text-editor" />
@@ -490,17 +467,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_variables.styl">
+    <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_extend.styl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/minos/source/webfonts/source-code-pro/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/minos/source/webfonts/ptserif/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="614">
+          <caret line="98" column="29" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/minos/source/css/style.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="352">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/minos/source/css/_variables.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/cactus/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
     </entry>
