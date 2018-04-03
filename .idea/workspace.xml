@@ -8,11 +8,9 @@
         <option name="name" value="Bichi Kim" />
       </changelist_data>
     </list>
-    <list default="true" id="8deab951-5517-4f55-ac8c-82119ccf7305" name="Default" comment="-">
-      <change afterPath="$PROJECT_DIR$/source/_posts/Babel-env-options.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8deab951-5517-4f55-ac8c-82119ccf7305" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/Do-not-ues-alert/capture1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Do-not-start-new-IT-business.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_nopost/Do-not-start-new-IT-business.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,12 +23,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
               <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Do-not-ues-alert.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Do-not-ues-alert.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="192">
+                <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -64,6 +74,7 @@
         <option value="$PROJECT_DIR$/source/_posts/Do-not-start-new-IT-business.md" />
         <option value="$PROJECT_DIR$/source/_posts/Babel-env-options.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/source/_posts/Do-not-ues-alert.md" />
       </list>
     </option>
   </component>
@@ -76,17 +87,17 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1723" />
-    <option name="width" value="2126" />
-    <option name="height" value="2171" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="12" />
+    <option name="y" value="454" />
+    <option name="width" value="2127" />
+    <option name="height" value="2172" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="NBKnowledgePane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -106,10 +117,18 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="Do-not-ues-alert" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,17 +149,17 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Apps\blog\source\_nopost" />
-      <recent name="C:\Apps\bichikim.github.io\themes\lite\static" />
-      <recent name="C:\Apps\bichikim.github.io\themes\lite\source\static\images" />
-      <recent name="C:\Apps\bichikim.github.io\asset" />
-      <recent name="C:\Apps\bichikim.github.io\themes\lite\static\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Apps\bichikim.github.io\themes\lite\static\images" />
       <recent name="C:\Apps\bichikim.github.io\themes\lite\source\static" />
       <recent name="C:\Apps\bichikim.github.io\themes\lite\source\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Apps\blog\source\_posts\Do-not-ues-alert" />
+      <recent name="C:\Apps\blog\source\_nopost" />
+      <recent name="C:\Apps\bichikim.github.io\themes\lite\static" />
+      <recent name="C:\Apps\bichikim.github.io\themes\lite\source\static\images" />
+      <recent name="C:\Apps\bichikim.github.io\asset" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -170,7 +189,8 @@
       <workItem from="1522241072355" duration="5000" />
       <workItem from="1522241096343" duration="1413000" />
       <workItem from="1522291599964" duration="811000" />
-      <workItem from="1522292462600" duration="1016000" />
+      <workItem from="1522292462600" duration="1042000" />
+      <workItem from="1522724636541" duration="2864000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1522083228503</created>
@@ -249,18 +269,24 @@
       <option name="project" value="LOCAL" />
       <updated>1522181487207</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="-">
+      <created>1522293485842</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1522293485842</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21143000" />
+    <option name="totallyTimeSpent" value="24033000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1149" y="0" width="1417" height="1447" extended-state="0" />
+    <frame x="8" y="303" width="1418" height="1448" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="PlantUML" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21075903" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21071687" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5117117" side_tool="true" weight="0.32977098" />
@@ -268,13 +294,14 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.48828828" weight="0.32852808" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48828828" visible="true" weight="0.5954198" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48828828" visible="true" weight="0.5949657" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -321,9 +348,17 @@
     <MESSAGE value="Revert &quot;fix&quot;&#10;&#10;This reverts commit b7a886b" />
     <MESSAGE value="~all" />
     <MESSAGE value="Merge branch 'master' of https://github.com/bichikim/bichikim.github.io&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;_config.yml&#10;#&#9;_posts/2016-05-20-welcome-to-jekyll.md&#10;#&#9;about.md&#10;#&#9;index.md&#10;#&#9;package.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/bichikim/bichikim.github.io&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;_config.yml&#10;#&#9;_posts/2016-05-20-welcome-to-jekyll.md&#10;#&#9;about.md&#10;#&#9;index.md&#10;#&#9;package.json" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -428,15 +463,15 @@
     <entry file="file://$PROJECT_DIR$/themes/cactus/_config.yml" />
     <entry file="file://$PROJECT_DIR$/source/_posts/post.md" />
     <entry file="file://$PROJECT_DIR$/source/_nopost/Do-not-start-new-IT-business.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -455,28 +490,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/My-frist-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -494,6 +529,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Do-not-ues-alert.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="192">
+            <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
